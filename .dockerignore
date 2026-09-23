@@ -1,0 +1,9 @@
+.git
+.env
+.venv
+node_modules
+target
+coverage
+data/*.sqlite3
+__pycache__
+.pytest_cache
